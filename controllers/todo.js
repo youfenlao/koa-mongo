@@ -16,7 +16,11 @@ async function destroy(ctx) {
 }
 
 async function update(ctx) {
-  const res = await todoModel.findByIdAndUpdate(ctx.params.id);
+  const res = await todoModel.findByIdAndUpdate(ctx.params.id, {
+    $set: {
+      txt: ctx.request.body.txt
+    }
+  });
   ctx.body = res
 }
 
