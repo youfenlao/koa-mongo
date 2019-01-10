@@ -6,6 +6,7 @@ const mongoose = require('mongoose');
 
 
 const userRouter = require('./routers/user');
+const todoRouter = require('./routers/todo')
 const config = require('./config');
 
 const app = new Koa();
@@ -24,6 +25,7 @@ app.use(bodyParser())
 
 
 app.use(userRouter.routes());
+app.use(todoRouter.routes());
 
 
 app.listen(config.port)

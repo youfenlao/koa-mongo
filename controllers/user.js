@@ -9,6 +9,16 @@ exports.getlist = async (ctx, next) => {
   }
 }
 
+exports.getOne = async(ctx, next) => {
+  console.log(ctx.params.nickname)
+  const res =  await userModel.findByUsername(ctx.params.nickname)
+  ctx.body = {
+    msg: true,
+    res
+  }
+} 
+
+
 exports.update = async(ctx) => {
   try {
     
@@ -43,12 +53,13 @@ exports.create = async (ctx) => {
 }
 
 exports.delete = async(ctx) => {
+  const a = userModel.findByIdAndRemove(ctx.params.id)
+  console.log(a)
+  ctx.body = {
+    success: true,
+    data: a
+  }
   try {
-    const res = await userModel.findByIdAndRemove(ctx.params.id)
-    ctx.body = {
-      success: true,
-      data: res
-    }
   } catch (error) {
     ctx.body = {
       success: false,
