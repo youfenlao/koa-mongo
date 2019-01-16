@@ -1,4 +1,7 @@
-const router = require('koa-router')();
+const Router = require('koa-router');
+const router = new Router({
+  prefix: '/api'
+});
 
 const todo = require('../controllers/todo');
 

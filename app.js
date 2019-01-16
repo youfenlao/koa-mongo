@@ -5,6 +5,8 @@ const bodyParser = require('koa-body');
 const mongoose = require('mongoose');
 const log4js = require('koa-log4');
 
+const response_formatter = require('./middlewares/response_formatter');
+
 const userRouter = require('./routers/user');
 const todoRouter = require('./routers/todo')
 const uploadRouter = require('./routers/upload')
@@ -51,7 +53,7 @@ app.use(bodyParser({
   }
 }));
 app.use(cors());
-
+app.use(response_formatter('^/api'));
 
 app.use(userRouter.routes());
 app.use(todoRouter.routes());
