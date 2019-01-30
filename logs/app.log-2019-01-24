@@ -1,0 +1,624 @@
+[2019-01-24T09:44:20.632] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.638] [INFO] app - POST /upload - 54003.194ms
+[2019-01-24T09:44:20.668] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.669] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T09:44:20.677] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.678] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T09:44:20.682] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.683] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T09:44:20.688] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.689] [INFO] app - POST /upload - 0.005ms
+[2019-01-24T09:44:20.694] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.695] [INFO] app - POST /upload - 0.005ms
+[2019-01-24T09:44:20.708] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.710] [INFO] app - GET /api/todoAll - 0.013ms
+[2019-01-24T09:44:20.733] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:20.734] [INFO] app - GET /api/todoAll - 0.035ms
+[2019-01-24T09:44:23.816] [INFO] app - app started at port 1111...
+[2019-01-24T09:44:31.949] [INFO] app - app started at port 1111...
+[2019-01-24T09:44:33.481] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:44:33.482] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-24T09:44:50.224] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:48:33.485] [INFO] app - app started at port 1111...
+[2019-01-24T09:48:37.325] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T09:48:37.326] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T10:16:51.909] [INFO] app - app started at port 1111...
+[2019-01-24T10:16:58.860] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T10:16:58.862] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-24T10:26:46.015] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T10:26:46.016] [INFO] app - GET /api/todoAll - 0.009ms
+[2019-01-24T11:02:12.298] [INFO] app - app started at port 1111...
+[2019-01-24T11:02:15.290] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:02:15.292] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T11:05:15.204] [INFO] app - app started at port 1111...
+[2019-01-24T11:05:16.585] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:05:16.586] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T11:05:19.178] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:06:45.328] [INFO] app - app started at port 1111...
+[2019-01-24T11:06:48.771] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:06:48.773] [INFO] app - GET /api/todoAll - 0.03ms
+[2019-01-24T11:06:51.078] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:25:40.516] [INFO] app - app started at port 1111...
+[2019-01-24T11:25:44.165] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:25:44.166] [INFO] app - GET /api/todoAll - 0.024ms
+[2019-01-24T11:25:46.306] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:27:38.808] [INFO] app - app started at port 1111...
+[2019-01-24T11:27:39.755] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:27:39.756] [INFO] app - GET /api/todoAll - 0.03ms
+[2019-01-24T11:27:42.003] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:28:02.382] [INFO] app - app started at port 1111...
+[2019-01-24T11:28:02.974] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:28:02.975] [INFO] app - GET /api/todoAll - 0.029ms
+[2019-01-24T11:28:05.017] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:29:24.393] [INFO] app - app started at port 1111...
+[2019-01-24T11:29:25.899] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:29:25.900] [INFO] app - GET /api/todoAll - 0.03ms
+[2019-01-24T11:29:28.424] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:29:28.425] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:29:28.441] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:29:28.442] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T11:30:55.148] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:30:55.149] [INFO] app - GET /api/todoAll - 0.007ms
+[2019-01-24T11:31:34.560] [INFO] app - app started at port 1111...
+[2019-01-24T11:31:37.394] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:31:37.395] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T11:31:39.695] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:32:50.816] [INFO] app - app started at port 1111...
+[2019-01-24T11:32:53.726] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:32:53.728] [INFO] app - GET /api/todoAll - 0.031ms
+[2019-01-24T11:32:56.132] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:33:23.217] [INFO] app - app started at port 1111...
+[2019-01-24T11:33:24.298] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:33:24.300] [INFO] app - GET /api/todoAll - 0.031ms
+[2019-01-24T11:33:26.350] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:39:15.794] [INFO] app - app started at port 1111...
+[2019-01-24T11:39:33.295] [INFO] app - app started at port 1111...
+[2019-01-24T11:39:34.496] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:39:34.497] [INFO] app - GET /api/todoAll - 0.03ms
+[2019-01-24T11:39:36.647] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:40:47.034] [INFO] app - app started at port 1111...
+[2019-01-24T11:40:47.095] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:40:47.097] [INFO] app - GET /api/todoAll - 0.024ms
+[2019-01-24T11:41:31.854] [INFO] app - app started at port 1111...
+[2019-01-24T11:41:32.397] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:41:32.399] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T11:44:01.435] [INFO] app - app started at port 1111...
+[2019-01-24T11:44:02.831] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:02.833] [INFO] app - GET /api/todoAll - 0.031ms
+[2019-01-24T11:44:39.152] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:39.153] [INFO] app - GET /api/todoAll - 0.012ms
+[2019-01-24T11:44:52.018] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:52.019] [INFO] app - GET /api/todoAll - 0.007ms
+[2019-01-24T11:44:53.604] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:53.605] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-24T11:44:56.547] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.549] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.552] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.553] [INFO] app - OPTIONS /upload - 0.002ms
+[2019-01-24T11:44:56.555] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.556] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.558] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.559] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.562] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.563] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.590] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.591] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.593] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.594] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:44:56.596] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:44:56.598] [INFO] app - OPTIONS /upload - 0.002ms
+[2019-01-24T11:45:22.692] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:45:22.693] [INFO] app - GET /api/todoAll - 0.006ms
+[2019-01-24T11:45:25.251] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:45:25.251] [INFO] app - OPTIONS /upload - 0.001ms
+[2019-01-24T11:45:25.254] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:45:25.255] [INFO] app - OPTIONS /upload - 0.002ms
+[2019-01-24T11:45:25.258] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:45:25.259] [INFO] app - OPTIONS /upload - 0.002ms
+[2019-01-24T11:45:25.262] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /upload HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:45:25.264] [INFO] app - OPTIONS /upload - 0.002ms
+[2019-01-24T11:52:41.420] [INFO] app - app started at port 1111...
+[2019-01-24T11:52:46.845] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T11:52:46.846] [INFO] app - GET /api/todoAll - 0.026ms
+[2019-01-24T12:01:57.370] [INFO] app - app started at port 1111...
+[2019-01-24T12:01:59.334] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:01:59.336] [INFO] app - GET /api/todoAll - 0.031ms
+[2019-01-24T12:01:59.829] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:01:59.830] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-24T12:02:05.103] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.104] [INFO] app - POST /upload - 2.805ms
+[2019-01-24T12:02:05.105] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.106] [INFO] app - POST /upload - 2.809ms
+[2019-01-24T12:02:05.109] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.110] [INFO] app - POST /upload - 2.809ms
+[2019-01-24T12:02:05.111] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.112] [INFO] app - POST /upload - 2.811ms
+[2019-01-24T12:02:05.116] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.117] [INFO] app - POST /upload - 2.827ms
+[2019-01-24T12:02:05.120] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.121] [INFO] app - POST /upload - 2.819ms
+[2019-01-24T12:02:05.127] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.128] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T12:02:05.130] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:02:05.131] [INFO] app - POST /upload - 0.008ms
+[2019-01-24T12:05:04.940] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:04.942] [INFO] app - GET /api/todoAll - 0.008ms
+[2019-01-24T12:05:07.494] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:07.495] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-24T12:05:09.766] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.768] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T12:05:09.772] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.773] [INFO] app - POST /upload - 0.003ms
+[2019-01-24T12:05:09.777] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.778] [INFO] app - POST /upload - 0.002ms
+[2019-01-24T12:05:09.780] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.781] [INFO] app - POST /upload - 0.002ms
+[2019-01-24T12:05:09.784] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.785] [INFO] app - POST /upload - 0.003ms
+[2019-01-24T12:05:09.787] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.788] [INFO] app - POST /upload - 0.002ms
+[2019-01-24T12:05:09.791] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.792] [INFO] app - POST /upload - 0.003ms
+[2019-01-24T12:05:09.797] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T12:05:09.798] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T14:30:00.792] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:30:00.795] [INFO] app - GET /api/todoAll - 0.013ms
+[2019-01-24T14:30:17.261] [INFO] app - app started at port 1111...
+[2019-01-24T14:30:24.162] [INFO] app - app started at port 1111...
+[2019-01-24T14:30:26.452] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:30:26.454] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-24T14:32:10.948] [INFO] app - app started at port 1111...
+[2019-01-24T14:32:35.575] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:32:35.577] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-24T14:32:40.297] [INFO] app - app started at port 1111...
+[2019-01-24T14:33:55.502] [INFO] app - app started at port 1111...
+[2019-01-24T14:34:05.028] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:34:05.030] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T14:46:09.485] [INFO] app - app started at port 1111...
+[2019-01-24T14:47:12.021] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:47:12.022] [INFO] app - GET /api/todoAll - 0.026ms
+[2019-01-24T14:48:30.907] [INFO] app - app started at port 1111...
+[2019-01-24T14:48:45.477] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:45.478] [INFO] app - GET /api/todoAll - 0.026ms
+[2019-01-24T14:48:47.638] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.638] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T14:48:47.641] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.642] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T14:48:47.644] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.645] [INFO] app - POST /upload - 0.011ms
+[2019-01-24T14:48:47.648] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.649] [INFO] app - POST /upload - 0.019ms
+[2019-01-24T14:48:47.650] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.651] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T14:48:47.653] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.654] [INFO] app - POST /upload - 0.022ms
+[2019-01-24T14:48:47.660] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.660] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T14:48:47.662] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:48:47.664] [INFO] app - POST /upload - 0.007ms
+[2019-01-24T14:49:51.196] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:51.197] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-24T14:49:53.408] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.409] [INFO] app - POST /upload - 0.007ms
+[2019-01-24T14:49:53.411] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.412] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T14:49:53.414] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.415] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T14:49:53.419] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.420] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T14:49:53.423] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.424] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T14:49:53.429] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.430] [INFO] app - POST /upload - 0.028ms
+[2019-01-24T14:49:53.437] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.437] [INFO] app - POST /upload - 0.005ms
+[2019-01-24T14:49:53.440] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:49:53.441] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T14:50:23.018] [INFO] app - app started at port 1111...
+[2019-01-24T14:50:25.426] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:25.427] [INFO] app - GET /api/todoAll - 0.023ms
+[2019-01-24T14:50:27.581] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:27.582] [INFO] app - POST /upload - 0.008ms
+[2019-01-24T14:50:27.584] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:27.585] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T14:50:27.588] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:27.589] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T14:50:27.591] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:27.592] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T14:50:27.594] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:27.595] [INFO] app - POST /upload - 0.027ms
+[2019-01-24T14:50:35.108] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:35.108] [INFO] app - POST /upload - 7.53ms
+[2019-01-24T14:50:36.120] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:36.121] [INFO] app - POST /upload - 1.017ms
+[2019-01-24T14:50:36.123] [ERROR] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 404 - "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:50:36.124] [INFO] app - POST /upload - 1.019ms
+[2019-01-24T14:52:37.603] [INFO] app - app started at port 1111...
+[2019-01-24T14:52:38.454] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:52:38.456] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T14:53:03.557] [INFO] app - app started at port 1111...
+[2019-01-24T14:53:04.638] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:53:04.639] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T14:56:41.042] [INFO] app - app started at port 1111...
+[2019-01-24T14:56:56.936] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:56:56.938] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T14:59:42.462] [INFO] app - app started at port 1111...
+[2019-01-24T14:59:45.281] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T14:59:45.282] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-24T14:59:51.552] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T15:00:26.822] [INFO] app - app started at port 1111...
+[2019-01-24T15:00:29.068] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T15:00:29.070] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T15:00:32.207] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T15:51:23.352] [INFO] app - app started at port 1111...
+[2019-01-24T15:51:47.605] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:51:47.606] [INFO] app - GET /test - 0.009ms
+[2019-01-24T15:51:47.862] [ERROR] http - ::1 - - "GET /favicon.ico HTTP/1.1" 404 - "http://localhost:1111/test" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:51:47.863] [INFO] app - GET /favicon.ico - 0.003ms
+[2019-01-24T15:52:07.813] [INFO] app - app started at port 1111...
+[2019-01-24T15:52:09.744] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:52:09.745] [INFO] app - GET /test - 0.006ms
+[2019-01-24T15:52:33.532] [INFO] app - app started at port 1111...
+[2019-01-24T15:54:48.980] [INFO] app - app started at port 1111...
+[2019-01-24T15:54:50.412] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:54:50.413] [INFO] app - GET /test - 0.006ms
+[2019-01-24T15:55:01.572] [INFO] app - app started at port 1111...
+[2019-01-24T15:55:01.875] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:55:01.876] [INFO] app - GET /test - 0.006ms
+[2019-01-24T15:55:31.497] [INFO] app - app started at port 1111...
+[2019-01-24T15:55:32.900] [INFO] http - ::1 - - "GET /test HTTP/1.1" 200 5 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:55:32.901] [INFO] app - GET /test - 0.008ms
+[2019-01-24T15:55:40.696] [INFO] app - app started at port 1111...
+[2019-01-24T15:55:41.946] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:55:41.947] [INFO] app - GET /test - 0.008ms
+[2019-01-24T15:55:44.152] [ERROR] http - ::1 - - "GET /test HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:55:44.153] [INFO] app - GET /test - 0.002ms
+[2019-01-24T15:58:22.924] [INFO] app - app started at port 1111...
+[2019-01-24T15:58:26.455] [INFO] http - ::1 - - "GET /test HTTP/1.1" 200 5 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:58:26.456] [INFO] app - GET /test - 0.009ms
+[2019-01-24T15:58:27.965] [INFO] http - ::1 - - "GET /test HTTP/1.1" 200 5 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:58:27.966] [INFO] app - GET /test - 0.003ms
+[2019-01-24T15:58:29.104] [INFO] http - ::1 - - "GET /test HTTP/1.1" 200 5 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:58:29.105] [INFO] app - GET /test - 0.003ms
+[2019-01-24T15:58:30.910] [INFO] http - ::1 - - "GET /test HTTP/1.1" 200 5 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T15:58:30.911] [INFO] app - GET /test - 0.003ms
+[2019-01-24T16:09:58.224] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:09:58.225] [INFO] app - GET /api/todoAll - 0.022ms
+[2019-01-24T16:10:13.265] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:10:13.266] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-24T16:10:17.547] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:10:17.548] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-24T16:11:35.996] [INFO] app - app started at port 1111...
+[2019-01-24T16:11:36.742] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:36.744] [INFO] app - GET /api/todoAll - 0.031ms
+[2019-01-24T16:11:39.078] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.079] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T16:11:39.083] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.084] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T16:11:39.085] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.087] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T16:11:39.088] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.089] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T16:11:39.090] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.091] [INFO] app - POST /upload - 0.019ms
+[2019-01-24T16:11:39.093] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.094] [INFO] app - POST /upload - 0.026ms
+[2019-01-24T16:11:39.098] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.099] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T16:11:39.101] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:11:39.102] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T16:12:34.097] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:12:34.098] [INFO] app - GET /api/todoAll - 0.007ms
+[2019-01-24T16:13:08.296] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.297] [INFO] app - POST /upload - 32.014ms
+[2019-01-24T16:13:08.298] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.299] [INFO] app - POST /upload - 32.014ms
+[2019-01-24T16:13:08.301] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.302] [INFO] app - POST /upload - 32.016ms
+[2019-01-24T16:13:08.303] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.304] [INFO] app - POST /upload - 32.017ms
+[2019-01-24T16:13:08.306] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.307] [INFO] app - POST /upload - 32.017ms
+[2019-01-24T16:13:08.312] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.313] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T16:13:08.316] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.318] [INFO] app - POST /upload - 0.008ms
+[2019-01-24T16:13:08.319] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:08.320] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T16:13:11.915] [INFO] app - app started at port 1111...
+[2019-01-24T16:13:16.869] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:16.871] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T16:13:19.277] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.278] [INFO] app - POST /upload - 0.017ms
+[2019-01-24T16:13:19.280] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.281] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T16:13:19.282] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.284] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T16:13:19.285] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.286] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T16:13:19.290] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.291] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T16:13:19.292] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.293] [INFO] app - POST /upload - 0.021ms
+[2019-01-24T16:13:19.297] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.298] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T16:13:19.300] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:13:19.300] [INFO] app - POST /upload - 0.011ms
+[2019-01-24T16:17:09.098] [INFO] app - app started at port 1111...
+[2019-01-24T16:17:15.632] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:17:15.634] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T16:18:49.208] [INFO] app - app started at port 1111...
+[2019-01-24T16:18:54.514] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:18:54.516] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T16:19:02.335] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.336] [INFO] app - POST /upload - 4.587ms
+[2019-01-24T16:19:02.339] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.340] [INFO] app - POST /upload - 4.589ms
+[2019-01-24T16:19:02.342] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.343] [INFO] app - POST /upload - 4.592ms
+[2019-01-24T16:19:02.347] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.349] [INFO] app - POST /upload - 4.608ms
+[2019-01-24T16:19:02.353] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.354] [INFO] app - POST /upload - 4.602ms
+[2019-01-24T16:19:02.363] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.364] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T16:19:02.369] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.370] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T16:19:02.375] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:19:02.376] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T16:40:46.164] [INFO] app - app started at port 1111...
+[2019-01-24T16:42:24.181] [INFO] app - app started at port 1111...
+[2019-01-24T16:42:24.887] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:42:24.889] [INFO] app - GET /merge - 0.011ms
+[2019-01-24T16:42:47.155] [INFO] app - app started at port 1111...
+[2019-01-24T16:42:49.143] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:42:49.144] [INFO] app - GET /merge - 0.01ms
+[2019-01-24T16:42:49.399] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:42:49.400] [INFO] app - GET /merge - 0.005ms
+[2019-01-24T16:44:01.314] [INFO] app - app started at port 1111...
+[2019-01-24T16:44:01.689] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:44:01.690] [INFO] app - GET /merge - 0.009ms
+[2019-01-24T16:44:06.447] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:06.447] [INFO] app - GET /api/todoAll - 0.019ms
+[2019-01-24T16:44:08.618] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.619] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T16:44:08.623] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.624] [INFO] app - POST /upload - 0.013ms
+[2019-01-24T16:44:08.626] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.626] [INFO] app - POST /upload - 0.011ms
+[2019-01-24T16:44:08.629] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.629] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T16:44:08.632] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.633] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T16:44:08.636] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.637] [INFO] app - POST /upload - 0.023ms
+[2019-01-24T16:44:08.645] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.646] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T16:44:08.649] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:44:08.651] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T16:55:41.586] [INFO] app - app started at port 1111...
+[2019-01-24T16:56:35.409] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:35.410] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T16:56:37.563] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.564] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T16:56:37.566] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.567] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T16:56:37.569] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.570] [INFO] app - POST /upload - 0.013ms
+[2019-01-24T16:56:37.572] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.573] [INFO] app - POST /upload - 0.017ms
+[2019-01-24T16:56:37.576] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.577] [INFO] app - POST /upload - 0.026ms
+[2019-01-24T16:56:37.579] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.580] [INFO] app - POST /upload - 0.032ms
+[2019-01-24T16:56:37.586] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.586] [INFO] app - POST /upload - 0.003ms
+[2019-01-24T16:56:37.589] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:56:37.589] [INFO] app - POST /upload - 0.005ms
+[2019-01-24T16:57:09.551] [INFO] app - app started at port 1111...
+[2019-01-24T16:57:10.801] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:10.802] [INFO] app - GET /api/todoAll - 0.029ms
+[2019-01-24T16:57:12.806] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.807] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T16:57:12.811] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.811] [INFO] app - POST /upload - 0.011ms
+[2019-01-24T16:57:12.814] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.815] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T16:57:12.818] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.818] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T16:57:12.821] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.821] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T16:57:12.823] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.824] [INFO] app - POST /upload - 0.023ms
+[2019-01-24T16:57:12.830] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.831] [INFO] app - POST /upload - 0.005ms
+[2019-01-24T16:57:12.834] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T16:57:12.835] [INFO] app - POST /upload - 0.007ms
+[2019-01-24T16:58:45.223] [ERROR] http - ::ffff:192.168.36.95 - - "DELETE /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:58:45.224] [INFO] app - DELETE /merge - 0.002ms
+[2019-01-24T16:58:54.321] [INFO] app - app started at port 1111...
+[2019-01-24T16:58:57.065] [ERROR] http - ::ffff:192.168.36.95 - - "DELETE /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T16:58:57.066] [INFO] app - DELETE /merge - 0.006ms
+[2019-01-24T17:02:20.367] [INFO] app - app started at port 1111...
+[2019-01-24T17:04:32.903] [INFO] app - app started at port 1111...
+[2019-01-24T17:04:47.305] [INFO] app - app started at port 1111...
+[2019-01-24T17:04:49.144] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:49.145] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T17:04:51.514] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.515] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T17:04:51.519] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.520] [INFO] app - POST /upload - 0.013ms
+[2019-01-24T17:04:51.522] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.523] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T17:04:51.525] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.526] [INFO] app - POST /upload - 0.017ms
+[2019-01-24T17:04:51.529] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.530] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T17:04:51.533] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.534] [INFO] app - POST /upload - 0.023ms
+[2019-01-24T17:04:51.539] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.539] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T17:04:51.542] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:04:51.542] [INFO] app - POST /upload - 0.006ms
+[2019-01-24T17:05:02.112] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:05:02.113] [INFO] app - GET /merge - 0.004ms
+[2019-01-24T17:05:03.267] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:05:03.268] [INFO] app - GET /merge - 0.003ms
+[2019-01-24T17:05:13.065] [ERROR] http - ::1 - - "GET /merge. HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:05:13.066] [INFO] app - GET /merge. - 0.002ms
+[2019-01-24T17:06:18.481] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:06:18.482] [INFO] app - GET /merge - 61.532ms
+[2019-01-24T17:07:37.761] [INFO] app - app started at port 1111...
+[2019-01-24T17:07:42.259] [INFO] app - app started at port 1111...
+[2019-01-24T17:09:50.665] [INFO] app - app started at port 1111...
+[2019-01-24T17:10:07.015] [INFO] app - app started at port 1111...
+[2019-01-24T17:11:40.622] [INFO] app - app started at port 1111...
+[2019-01-24T17:12:24.934] [INFO] app - app started at port 1111...
+[2019-01-24T17:12:34.060] [INFO] app - app started at port 1111...
+[2019-01-24T17:25:44.649] [INFO] app - app started at port 1111...
+[2019-01-24T17:25:46.320] [INFO] app - app started at port 1111...
+[2019-01-24T17:30:04.712] [INFO] app - app started at port 1111...
+[2019-01-24T17:30:18.750] [INFO] app - app started at port 1111...
+[2019-01-24T17:34:05.922] [INFO] app - app started at port 1111...
+[2019-01-24T17:34:58.407] [INFO] app - app started at port 1111...
+[2019-01-24T17:35:21.711] [INFO] app - app started at port 1111...
+[2019-01-24T17:35:25.398] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:35:25.399] [INFO] app - GET /merge - 0.012ms
+[2019-01-24T17:35:34.218] [INFO] app - app started at port 1111...
+[2019-01-24T17:35:38.528] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:35:38.529] [INFO] app - GET /merge - 0.007ms
+[2019-01-24T17:36:09.283] [INFO] app - app started at port 1111...
+[2019-01-24T17:37:59.869] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:37:59.870] [INFO] app - GET /merge - 108.436ms
+[2019-01-24T17:38:54.030] [INFO] app - app started at port 1111...
+[2019-01-24T17:38:59.578] [INFO] app - app started at port 1111...
+[2019-01-24T17:39:04.307] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:39:04.308] [INFO] app - GET /merge - 2.338ms
+[2019-01-24T17:40:22.360] [INFO] app - app started at port 1111...
+[2019-01-24T17:40:28.965] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:40:28.966] [INFO] app - GET /merge - 0.008ms
+[2019-01-24T17:41:31.178] [INFO] app - app started at port 1111...
+[2019-01-24T17:41:34.089] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:41:34.090] [INFO] app - GET /merge - 0.01ms
+[2019-01-24T17:42:27.775] [INFO] app - app started at port 1111...
+[2019-01-24T17:42:30.946] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:42:30.947] [INFO] app - GET /merge - 0.008ms
+[2019-01-24T17:44:28.445] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:44:28.446] [INFO] app - GET /merge - 3.786ms
+[2019-01-24T17:45:11.838] [INFO] app - app started at port 1111...
+[2019-01-24T17:45:16.624] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:45:16.625] [INFO] app - GET /merge - 2.12ms
+[2019-01-24T17:49:42.498] [INFO] app - app started at port 1111...
+[2019-01-24T17:49:52.328] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:49:52.329] [INFO] app - GET /merge - 2.26ms
+[2019-01-24T17:51:03.789] [INFO] app - app started at port 1111...
+[2019-01-24T17:51:06.022] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:06.023] [INFO] app - GET /api/todoAll - 0.026ms
+[2019-01-24T17:51:09.747] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.748] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T17:51:09.751] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.752] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T17:51:09.755] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.756] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T17:51:09.758] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.759] [INFO] app - POST /upload - 0.019ms
+[2019-01-24T17:51:09.761] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.761] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T17:51:09.764] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.765] [INFO] app - POST /upload - 0.023ms
+[2019-01-24T17:51:09.771] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.772] [INFO] app - POST /upload - 0.004ms
+[2019-01-24T17:51:09.775] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:51:09.776] [INFO] app - POST /upload - 0.007ms
+[2019-01-24T17:51:22.742] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:51:22.742] [INFO] app - GET /merge - 0.004ms
+[2019-01-24T17:52:01.397] [INFO] app - app started at port 1111...
+[2019-01-24T17:52:18.151] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:18.152] [INFO] app - GET /api/todoAll - 0.027ms
+[2019-01-24T17:52:24.967] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.968] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T17:52:24.971] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.971] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T17:52:24.974] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.974] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T17:52:24.977] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.978] [INFO] app - POST /upload - 0.018ms
+[2019-01-24T17:52:24.981] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.982] [INFO] app - POST /upload - 0.021ms
+[2019-01-24T17:52:24.985] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.986] [INFO] app - POST /upload - 0.024ms
+[2019-01-24T17:52:24.996] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:24.997] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T17:52:25.000] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:25.001] [INFO] app - POST /upload - 0.011ms
+[2019-01-24T17:52:25.004] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:25.005] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T17:52:25.007] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:25.008] [INFO] app - POST /upload - 0.014ms
+[2019-01-24T17:52:25.011] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T17:52:25.012] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T17:52:29.754] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T17:52:29.755] [INFO] app - GET /merge - 0.003ms
+[2019-01-24T18:01:11.764] [INFO] app - app started at port 1111...
+[2019-01-24T18:02:34.163] [INFO] app - app started at port 1111...
+[2019-01-24T18:02:51.214] [INFO] app - app started at port 1111...
+[2019-01-24T18:02:51.409] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T18:02:51.410] [INFO] app - GET /merge - 0.011ms
+[2019-01-24T18:03:16.000] [INFO] app - app started at port 1111...
+[2019-01-24T18:03:16.947] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T18:03:16.948] [INFO] app - GET /merge - 0.01ms
+[2019-01-24T18:03:50.114] [INFO] app - app started at port 1111...
+[2019-01-24T18:03:50.324] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T18:03:50.325] [INFO] app - GET /merge - 0.008ms
+[2019-01-24T18:06:48.154] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:06:48.156] [INFO] app - GET /api/todoAll - 0.019ms
+[2019-01-24T18:07:25.529] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:07:25.531] [INFO] app - GET /api/todoAll - 0.007ms
+[2019-01-24T18:08:25.401] [INFO] app - app started at port 1111...
+[2019-01-24T18:08:39.055] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:36.029] [INFO] app - app started at port 1111...
+[2019-01-24T18:12:45.448] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:45.450] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-24T18:12:48.077] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.078] [INFO] app - POST /upload - 0.016ms
+[2019-01-24T18:12:48.081] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.083] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T18:12:48.086] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.087] [INFO] app - POST /upload - 0.017ms
+[2019-01-24T18:12:48.089] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.090] [INFO] app - POST /upload - 0.019ms
+[2019-01-24T18:12:48.093] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.094] [INFO] app - POST /upload - 0.021ms
+[2019-01-24T18:12:48.098] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.099] [INFO] app - POST /upload - 0.027ms
+[2019-01-24T18:12:48.107] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.108] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T18:12:48.111] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:12:48.112] [INFO] app - POST /upload - 0.01ms
+[2019-01-24T18:13:07.672] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:07.673] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-24T18:13:10.904] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.905] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T18:13:10.907] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.908] [INFO] app - POST /upload - 0.009ms
+[2019-01-24T18:13:10.911] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.912] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T18:13:10.915] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.916] [INFO] app - POST /upload - 0.015ms
+[2019-01-24T18:13:10.921] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.922] [INFO] app - POST /upload - 0.02ms
+[2019-01-24T18:13:10.929] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.930] [INFO] app - POST /upload - 0.028ms
+[2019-01-24T18:13:10.934] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.935] [INFO] app - POST /upload - 0.012ms
+[2019-01-24T18:13:10.939] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+[2019-01-24T18:13:10.940] [INFO] app - POST /upload - 0.013ms
+[2019-01-24T18:13:15.885] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T18:13:15.886] [INFO] app - GET /merge - 0.003ms
+[2019-01-24T18:13:29.447] [ERROR] http - ::1 - - "GET /merge HTTP/1.1" 404 - "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-24T18:13:29.448] [INFO] app - GET /merge - 0.004ms
+[2019-01-24T18:21:25.445] [INFO] app - app started at port 1111...
+[2019-01-24T18:21:32.451] [INFO] app - app started at port 1111...
+[2019-01-24T18:25:33.732] [INFO] app - app started at port 1111...
+[2019-01-24T18:25:48.322] [INFO] app - app started at port 1111...
+[2019-01-24T18:25:56.047] [INFO] app - app started at port 1111...

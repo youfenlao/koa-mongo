@@ -1,0 +1,166 @@
+[2019-01-29T09:20:11.963] [INFO] app - app started at port 1111...
+[2019-01-29T09:20:31.545] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:31.547] [INFO] app - GET /api/todoAll - 0.025ms
+[2019-01-29T09:20:34.795] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.796] [INFO] app - POST /upload - 0.009ms
+[2019-01-29T09:20:34.805] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.806] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T09:20:34.815] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.816] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T09:20:34.823] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.823] [INFO] app - POST /upload - 0.002ms
+[2019-01-29T09:20:34.830] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.831] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T09:20:34.838] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.839] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T09:20:34.847] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.849] [INFO] app - POST /upload - 0.005ms
+[2019-01-29T09:20:34.857] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.857] [INFO] app - POST /upload - 0.002ms
+[2019-01-29T09:20:34.864] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=4a9cf0e0bed0c586a9599a07b8545af4 HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T09:20:34.866] [INFO] app - GET /merge?m=4a9cf0e0bed0c586a9599a07b8545af4 - 0.004ms
+[2019-01-29T15:27:22.151] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:27:22.152] [INFO] app - GET /api/todoAll - 0.011ms
+[2019-01-29T15:27:49.507] [INFO] app - app started at port 1111...
+[2019-01-29T15:28:01.040] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:01.042] [INFO] app - GET /api/todoAll - 0.026ms
+[2019-01-29T15:28:04.296] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.297] [INFO] app - POST /upload - 0.009ms
+[2019-01-29T15:28:04.308] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.309] [INFO] app - POST /upload - 0.005ms
+[2019-01-29T15:28:04.318] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.318] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:28:04.326] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.327] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T15:28:04.335] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.336] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:28:04.343] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.344] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T15:28:04.353] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.354] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:28:04.361] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.362] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T15:28:04.371] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=557379013be3c43c08446d35e6e304f1 HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:28:04.372] [INFO] app - GET /merge?m=557379013be3c43c08446d35e6e304f1 - 0.005ms
+[2019-01-29T15:32:16.940] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:16.941] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-29T15:32:29.163] [INFO] app - app started at port 1111...
+[2019-01-29T15:32:40.934] [INFO] app - app started at port 1111...
+[2019-01-29T15:32:47.769] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:47.771] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-29T15:32:50.390] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.390] [INFO] app - POST /upload - 0.01ms
+[2019-01-29T15:32:50.401] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.402] [INFO] app - POST /upload - 0.005ms
+[2019-01-29T15:32:50.409] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.410] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T15:32:50.418] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.419] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T15:32:50.427] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.428] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:32:50.436] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.437] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:32:50.444] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.445] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T15:32:50.452] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.452] [INFO] app - POST /upload - 0.002ms
+[2019-01-29T15:32:50.462] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=4a9cf0e0bed0c586a9599a07b8545af4 HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T15:32:50.463] [INFO] app - GET /merge?m=4a9cf0e0bed0c586a9599a07b8545af4 - 0.005ms
+[2019-01-29T16:06:57.847] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:06:57.848] [INFO] app - GET /api/todoAll - 0.008ms
+[2019-01-29T16:07:02.448] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:02.449] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-29T16:07:33.503] [INFO] app - app started at port 1111...
+[2019-01-29T16:07:35.870] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:35.871] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-29T16:07:39.179] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.180] [INFO] app - POST /upload - 0.01ms
+[2019-01-29T16:07:39.188] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.190] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:07:39.199] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.200] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:07:39.207] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.209] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:07:39.217] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.218] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:07:39.227] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.231] [INFO] app - POST /upload - 0.006ms
+[2019-01-29T16:07:39.240] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.241] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:07:39.249] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.250] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:07:39.258] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=058cdcd16855e45be1d264bd3f172557&name=cmCivil.jpg HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:07:39.259] [INFO] app - GET /merge?m=058cdcd16855e45be1d264bd3f172557&name=cmCivil.jpg - 0.004ms
+[2019-01-29T16:08:38.799] [INFO] app - app started at port 1111...
+[2019-01-29T16:08:40.757] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:40.759] [INFO] app - GET /api/todoAll - 0.028ms
+[2019-01-29T16:08:43.400] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.401] [INFO] app - POST /upload - 0.011ms
+[2019-01-29T16:08:43.409] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.410] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:08:43.418] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.419] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:08:43.426] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.427] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:08:43.437] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.438] [INFO] app - POST /upload - 0.002ms
+[2019-01-29T16:08:43.445] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.446] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:08:43.455] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.456] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:08:43.464] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.465] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:08:43.473] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=557379013be3c43c08446d35e6e304f1&name=cElectro.jpg HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:08:43.474] [INFO] app - GET /merge?m=557379013be3c43c08446d35e6e304f1&name=cElectro.jpg - 0.004ms
+[2019-01-29T16:10:21.195] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:21.196] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-29T16:10:42.987] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:42.988] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-29T16:10:45.369] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.370] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.384] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.384] [INFO] app - POST /upload - 0.009ms
+[2019-01-29T16:10:45.392] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.393] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.400] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.401] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.409] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.410] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.417] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.418] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.426] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.427] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:10:45.435] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.436] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:10:45.443] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.444] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.452] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.453] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:10:45.463] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.464] [INFO] app - POST /upload - 0.005ms
+[2019-01-29T16:10:45.472] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=f0585f8626231057ef62db04719f6084&name=WechatIMG2.jpg HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:45.473] [INFO] app - GET /merge?m=f0585f8626231057ef62db04719f6084&name=WechatIMG2.jpg - 0.004ms
+[2019-01-29T16:10:53.473] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:10:53.474] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-29T16:11:05.334] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:05.335] [INFO] app - GET /api/todoAll - 0.005ms
+[2019-01-29T16:11:09.500] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.501] [INFO] app - POST /upload - 0.005ms
+[2019-01-29T16:11:09.508] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.509] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:11:09.518] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.519] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:11:09.527] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.529] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:11:09.537] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.538] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:11:09.546] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.547] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:11:09.554] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.555] [INFO] app - POST /upload - 0.003ms
+[2019-01-29T16:11:09.562] [INFO] http - ::ffff:192.168.36.95 - - "POST /upload HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.564] [INFO] app - POST /upload - 0.004ms
+[2019-01-29T16:11:09.570] [INFO] http - ::ffff:192.168.36.95 - - "GET /merge?m=8b598f422cab31a535f259b8f2bee10b&name=mDecorate.jpg HTTP/1.1" 200 4 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:09.571] [INFO] app - GET /merge?m=8b598f422cab31a535f259b8f2bee10b&name=mDecorate.jpg - 0.002ms
+[2019-01-29T16:11:11.032] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-29T16:11:11.033] [INFO] app - GET /api/todoAll - 0.004ms

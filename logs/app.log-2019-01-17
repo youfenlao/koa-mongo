@@ -1,0 +1,6 @@
+[2019-01-17T10:24:27.962] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-17T10:24:27.964] [INFO] app - GET /api/todoAll - 0.011ms
+[2019-01-17T10:25:07.437] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-17T10:25:07.438] [INFO] app - GET /api/todoAll - 0.006ms
+[2019-01-17T10:26:02.845] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-17T10:26:02.847] [INFO] app - GET /api/todoAll - 0.007ms

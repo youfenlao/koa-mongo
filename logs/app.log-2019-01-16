@@ -1,0 +1,77 @@
+[2019-01-16T15:50:59.058] [INFO] app - 111
+[2019-01-16T15:51:56.539] [INFO] http - ::ffff:192.168.36.95 - - "GET /todoAll HTTP/1.1" 200 275 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T15:51:56.540] [INFO] app - GET /todoAll - 0.021ms
+[2019-01-16T15:53:53.028] [INFO] app - app started at port 1111...
+[2019-01-16T16:03:00.177] [INFO] http - ::ffff:192.168.36.95 - - "GET /todoAll HTTP/1.1" 200 275 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T16:03:00.178] [INFO] app - GET /todoAll - 0.023ms
+[2019-01-16T16:03:27.870] [INFO] app - app started at port 1111...
+[2019-01-16T16:03:30.129] [INFO] app - GET /todoAll - 0.02ms
+[2019-01-16T16:03:57.584] [INFO] app - app started at port 1111...
+[2019-01-16T16:09:35.979] [INFO] app - app started at port 1111...
+[2019-01-16T16:09:37.851] [INFO] http - ::ffff:192.168.36.95 - - "GET /todoAll HTTP/1.1" 200 313 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T16:09:37.852] [INFO] app - GET /todoAll - 0.022ms
+[2019-01-16T16:45:11.832] [INFO] app - app started at port 1111...
+[2019-01-16T17:00:39.896] [INFO] app - app started at port 1111...
+[2019-01-16T17:01:10.114] [INFO] app - app started at port 1111...
+[2019-01-16T17:01:13.372] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:01:13.373] [INFO] app - GET /api/todoAll - 0.024ms
+[2019-01-16T17:02:52.285] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:02:52.286] [INFO] app - GET /api/todoAll - 0.006ms
+[2019-01-16T17:06:08.054] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:06:08.055] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:06:16.716] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:06:16.717] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:06:54.008] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:06:54.009] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:07:19.542] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:07:19.543] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-16T17:08:17.699] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 313 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:08:17.700] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:09:16.607] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoCreate HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:16.608] [INFO] app - OPTIONS /api/todoCreate - 0.002ms
+[2019-01-16T17:09:16.657] [INFO] http - ::ffff:192.168.36.95 - - "POST /api/todoCreate HTTP/1.1" 200 172 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:16.658] [INFO] app - POST /api/todoCreate - 0.046ms
+[2019-01-16T17:09:18.302] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoDelete/5c3c5d045581bd1a2c0e7394 HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:18.302] [INFO] app - OPTIONS /api/todoDelete/5c3c5d045581bd1a2c0e7394 - 0.001ms
+[2019-01-16T17:09:18.317] [INFO] http - ::ffff:192.168.36.95 - - "DELETE /api/todoDelete/5c3c5d045581bd1a2c0e7394 HTTP/1.1" 200 176 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:18.318] [INFO] app - DELETE /api/todoDelete/5c3c5d045581bd1a2c0e7394 - 0.012ms
+[2019-01-16T17:09:26.561] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoUpdate/5c3c5e505581bd1a2c0e7395 HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:26.562] [INFO] app - OPTIONS /api/todoUpdate/5c3c5e505581bd1a2c0e7395 - 0.001ms
+[2019-01-16T17:09:26.574] [INFO] http - ::ffff:192.168.36.95 - - "PUT /api/todoUpdate/5c3c5e505581bd1a2c0e7395 HTTP/1.1" 200 172 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:26.575] [INFO] app - PUT /api/todoUpdate/5c3c5e505581bd1a2c0e7395 - 0.01ms
+[2019-01-16T17:09:27.402] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 318 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:27.403] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:09:30.150] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoCreate HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:30.151] [INFO] app - OPTIONS /api/todoCreate - 0.002ms
+[2019-01-16T17:09:30.158] [INFO] http - ::ffff:192.168.36.95 - - "POST /api/todoCreate HTTP/1.1" 200 175 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:30.160] [INFO] app - POST /api/todoCreate - 0.006ms
+[2019-01-16T17:09:46.530] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 456 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:46.531] [INFO] app - GET /api/todoAll - 0.007ms
+[2019-01-16T17:09:47.918] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoCreate HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:47.918] [INFO] app - OPTIONS /api/todoCreate - 0.001ms
+[2019-01-16T17:09:47.929] [INFO] http - ::ffff:192.168.36.95 - - "POST /api/todoCreate HTTP/1.1" 200 171 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:47.931] [INFO] app - POST /api/todoCreate - 0.009ms
+[2019-01-16T17:09:49.238] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoDelete/5c3c5e505581bd1a2c0e7395 HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:49.239] [INFO] app - OPTIONS /api/todoDelete/5c3c5e505581bd1a2c0e7395 - 0.002ms
+[2019-01-16T17:09:49.246] [INFO] http - ::ffff:192.168.36.95 - - "DELETE /api/todoDelete/5c3c5e505581bd1a2c0e7395 HTTP/1.1" 200 181 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:49.247] [INFO] app - DELETE /api/todoDelete/5c3c5e505581bd1a2c0e7395 - 0.004ms
+[2019-01-16T17:09:52.439] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoUpdate/5c3ef4bc341c524cc0320325 HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:52.440] [INFO] app - OPTIONS /api/todoUpdate/5c3ef4bc341c524cc0320325 - 0.001ms
+[2019-01-16T17:09:52.447] [INFO] http - ::ffff:192.168.36.95 - - "PUT /api/todoUpdate/5c3ef4bc341c524cc0320325 HTTP/1.1" 200 172 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:52.448] [INFO] app - PUT /api/todoUpdate/5c3ef4bc341c524cc0320325 - 0.004ms
+[2019-01-16T17:09:56.731] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 451 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:09:56.732] [INFO] app - GET /api/todoAll - 0.004ms
+[2019-01-16T17:10:03.054] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoCreate HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:03.054] [INFO] app - OPTIONS /api/todoCreate - 0.001ms
+[2019-01-16T17:10:03.061] [INFO] http - ::ffff:192.168.36.95 - - "POST /api/todoCreate HTTP/1.1" 200 173 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:03.062] [INFO] app - POST /api/todoCreate - 0.004ms
+[2019-01-16T17:10:04.298] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 587 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:04.299] [INFO] app - GET /api/todoAll - 0.003ms
+[2019-01-16T17:10:07.441] [INFO] http - ::ffff:192.168.36.95 - - "POST /api/todoCreate HTTP/1.1" 200 176 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:07.442] [INFO] app - POST /api/todoCreate - 0.005ms
+[2019-01-16T17:10:12.296] [INFO] http - ::ffff:192.168.36.95 - - "OPTIONS /api/todoUpdate/5c3ef4bc341c524cc0320325 HTTP/1.1" 204 - "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:12.297] [INFO] app - OPTIONS /api/todoUpdate/5c3ef4bc341c524cc0320325 - 0.002ms
+[2019-01-16T17:10:12.302] [INFO] http - ::ffff:192.168.36.95 - - "PUT /api/todoUpdate/5c3ef4bc341c524cc0320325 HTTP/1.1" 200 177 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:12.304] [INFO] app - PUT /api/todoUpdate/5c3ef4bc341c524cc0320325 - 0.004ms
+[2019-01-16T17:10:13.928] [INFO] http - ::ffff:192.168.36.95 - - "GET /api/todoAll HTTP/1.1" 200 722 "http://localhost:8080/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36"
+[2019-01-16T17:10:13.929] [INFO] app - GET /api/todoAll - 0.003ms
