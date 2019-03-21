@@ -1,8 +1,19 @@
 const todoModel = require('../models/todo');
 
 async function all(ctx) {
-  const res = await todoModel.find({});
-  ctx.body = res;
+  const pageSize = Number(ctx.query.pageSize || 10);
+  const pageNo = Number(ctx.query.pageNo || 1);
+  const options = {"limit": pageSize, "skip": (pageNo-1) * pageSize};
+  const totalNum = await todoModel.count();
+  const totalPage = Math.ceil(totalNum / pageSize);
+  const list = await todoModel.find({}, null, options);
+  ctx.body = {
+    pageNo,
+    pageSize,
+    totalNum,
+    totalPage,
+    list
+  };
 }
 
 async function create(ctx) {
